@@ -1,0 +1,10 @@
+Symbol Table
+X31=5
+
+Memory Map
+0:  2009
+1:  2005 Error: Immediate address on use list; treated as External.
+2:  2005
+3:  2005 Error: Immediate address on use list; treated as External.
+4:  2000
+5:  3005
